@@ -77,8 +77,27 @@ class ShopeeCrawler:
                         # Đảm bảo domain đúng
                         if 'domain' in cookie:
                             # Chỉnh domain nếu cần
-                            if cookie['domain'].startswith('.'):
-                                cookie['domain'] = cookie['domain'][1:]
+                            domain = cookie['domain']
+                            if domain.startswith('.'):
+                                domain = domain[1:]
+                            cookie['domain'] = domain
+                        
+                        # Xử lý expiry
+                        if 'expiry' in cookie and cookie['expiry']:
+                            # Chuyển từ Windows timestamp sang Unix timestamp nếu cần
+                            expiry = cookie['expiry']
+                            if expiry > 10000000000000000:  # Windows timestamp
+                                expiry = expiry / 1000000
+                            cookie['expiry'] = int(expiry)
+                        
+                        # Đảm bảo có các trường bắt buộc
+                        if 'path' not in cookie:
+                            cookie['path'] = '/'
+                        if 'secure' not in cookie:
+                            cookie['secure'] = False
+                        if 'httpOnly' not in cookie:
+                            cookie['httpOnly'] = False
+                            
                         self.driver.add_cookie(cookie)
                         loaded_count += 1
                     except Exception as e:
@@ -88,10 +107,25 @@ class ShopeeCrawler:
                     print(f"✅ Đã load {loaded_count}/{len(cookies)} cookies từ file")
                     # Refresh để áp dụng cookies
                     self.driver.refresh()
-                    time.sleep(2)
+                    time.sleep(3)
                     return True
             except Exception as e:
                 print(f"⚠️ Không thể load cookies: {e}")
+        else:
+            # Thử import từ Chrome nếu chưa có file
+            try:
+                from .cookie_helper import get_chrome_cookies
+                print("💡 Đang thử import cookies từ Chrome profile...")
+                chrome_cookies = get_chrome_cookies()
+                if chrome_cookies:
+                    # Lưu vào file
+                    with open(self.COOKIES_FILE, 'w', encoding='utf-8') as f:
+                        json.dump(chrome_cookies, f, ensure_ascii=False, indent=2)
+                    print(f"✅ Đã import {len(chrome_cookies)} cookies từ Chrome")
+                    # Load lại
+                    return self._load_cookies()
+            except:
+                pass
         return False
     
     def _save_cookies(self):

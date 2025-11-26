@@ -8,7 +8,27 @@ def main():
     try:
         print("=== TOOL CRAWL DỮ LIỆU SHOPEE ===\n")
         print("📌 LƯU Ý: Shopee yêu cầu đăng nhập để crawl dữ liệu.")
-        print("   Lần đầu tiên cần đăng nhập, cookies sẽ được lưu tự động.\n")
+        print("   Có 2 cách để có cookies:")
+        print("   1. Import từ Chrome đã đăng nhập (khuyến nghị)")
+        print("   2. Đăng nhập trong browser khi chạy tool\n")
+        
+        # Hỏi có muốn import cookies từ Chrome không
+        import_choice = input("Import cookies từ Chrome? (y/n, mặc định: y): ").lower()
+        if import_choice != 'n':
+            try:
+                from crawler.cookie_helper import get_chrome_cookies, save_cookies_to_file
+                print("\nĐang import cookies từ Chrome...")
+                cookies = get_chrome_cookies()
+                if cookies:
+                    save_cookies_to_file(cookies)
+                    print("✅ Đã import cookies thành công!\n")
+                else:
+                    print("⚠️ Không tìm thấy cookies. Bạn cần:")
+                    print("   1. Mở Chrome và đăng nhập Shopee")
+                    print("   2. Đóng Chrome hoàn toàn")
+                    print("   3. Chạy lại: py crawler/cookie_helper.py\n")
+            except Exception as e:
+                print(f"⚠️ Lỗi khi import cookies: {e}\n")
         
         # Hỏi có muốn chạy headless không
         headless_choice = input("Chạy browser ẩn? (y/n, mặc định: y): ").lower()

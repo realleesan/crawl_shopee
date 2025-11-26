@@ -1,37 +1,17 @@
 [
   {
     "domain": ".shopee.vn",
-    "expiry": 1764147556,
-    "httpOnly": false,
-    "name": "_dc_gtm_UA-61914164-6",
-    "path": "/",
-    "sameSite": "Lax",
-    "secure": false,
-    "value": "1"
-  },
-  {
-    "domain": ".shopee.vn",
-    "expiry": 1795683496,
-    "httpOnly": false,
-    "name": "_hjSessionUser_868286",
-    "path": "/",
-    "sameSite": "None",
-    "secure": true,
-    "value": "eyJpZCI6IjQ0YzRjYzMwLWEwYWEtNTZkYi1hYWQxLTFiMDRiOGRkNzc3OCIsImNyZWF0ZWQiOjE3NjQxNDcxMDUxODUsImV4aXN0aW5nIjp0cnVlfQ=="
-  },
-  {
-    "domain": ".shopee.vn",
-    "expiry": 1798707495,
+    "expiry": 1798708516,
     "httpOnly": true,
     "name": "SPC_EC",
     "path": "/",
     "sameSite": "Lax",
     "secure": true,
-    "value": ".blVYYnVGSG4xaHhJWDV0d3udDxI7sByj5dppfp4X5djRDfpDyIhnHgtjiiPHUUMNabetZFJkTz+Ihxd4NfSMe0dKc1VycjPBix1ykT5BTrInl/mwFZFRoEp8Hag1EW13/gh20QVNsVojt6R3xCuttf1lx3cWIgm+4iiTEtPiFNaubeRwpAchbR8ctHMn9PkQXiLKaQprauCCE9pjm6wU+uFJyan0zsEdfAdmNSYJSwnE/nCWyViCWckj10fi/AA3ohmKa2gk1zge4+omhut4PQ=="
+    "value": ".VjBhTFh0bVpSMXJpeDh1b466IEcmK/oTpy/O+d/DGIbpDgD0KPGBCKwlN0qXf/7MxlZPBXnn/GXkP4QkqkSPnd8w+5090SpmMqRLD3idEQ4yza/uyAY5PoYuzjBQzjOJ+FmROrbpp85UjUUPNYY6In8goodGuz4VhFPzrGOP0F45QYosFyVFSNbYW0vrS4H0tJF+M3a2H450wNjgRhknIF03gK8/PgthZxeGQf0/BXvRyaHxKVvNOpm22zjbDzhpXm6YLUqSkEnon7Vtw96zOw=="
   },
   {
     "domain": ".shopee.vn",
-    "expiry": 1798707495,
+    "expiry": 1798708513,
     "httpOnly": false,
     "name": "_ga",
     "path": "/",
@@ -41,122 +21,141 @@
   },
   {
     "domain": "shopee.vn",
-    "expiry": 1795683494,
+    "expiry": 1795684511,
     "httpOnly": false,
     "name": "ds",
     "path": "/",
     "sameSite": "Lax",
     "secure": false,
-    "value": "e039928228d5ed16b2faaff7b08b9955"
+    "value": "71aaec1ab836cf8d04d4f6f0ebea21c6"
   },
   {
     "domain": "shopee.vn",
-    "expiry": 1795683493,
+    "expiry": 1795684509,
     "httpOnly": false,
     "name": "REC7iLP4Q",
     "path": "/",
     "sameSite": "Lax",
     "secure": false,
-    "value": "848051df-aa4f-4a5a-9de6-4ae06287e1ca"
-  },
-  {
-    "domain": "shopee.vn",
-    "httpOnly": false,
-    "name": "_sapid",
-    "path": "/",
-    "sameSite": "Lax",
-    "secure": false,
-    "value": "dbf02207cd31046edeadee05c36488a76ae86ac468c56c1c3ba6caf1"
+    "value": "465d7525-e3f3-419b-a7c1-a911142ecbe0"
   },
   {
     "domain": ".shopee.vn",
-    "expiry": 1764148905,
-    "httpOnly": false,
-    "name": "_hjSession_868286",
-    "path": "/",
-    "sameSite": "None",
-    "secure": true,
-    "value": "eyJpZCI6ImZhOTE2NGNlLTEwYzgtNGZjMS1iODQ5LTFlNTcxYzkzZjc2NyIsImMiOjE3NjQxNDcxMDUxODcsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0="
-  },
-  {
-    "domain": ".shopee.vn",
-    "expiry": 1764233410,
+    "expiry": 1798708516,
     "httpOnly": true,
-    "name": "SPC_SEC_SI",
-    "path": "/",
-    "sameSite": "Lax",
-    "secure": true,
-    "value": "v1-QjRZUHlIOENmSFdzUWVaTq7Wb21SKFUHXzun5nzHEfhq5Y5PFLVVmKP5as9Q5W80qwtTmRBX+kb8l1y+4gviQOQa1Pq47EXDCGTs3IYhy+U="
-  },
-  {
-    "domain": ".shopee.vn",
-    "expiry": 1795683199,
-    "httpOnly": false,
-    "name": "shopee_webUnique_ccd",
-    "path": "/",
-    "sameSite": "Lax",
-    "secure": true,
-    "value": "AtAhAuMEHk7fMq5jaLDIow%3D%3D%7CxePr%2FzrbtW7bhuYdppJSPTLA%2F%2BMiz2kFl69YF4lQ%2BcDDAqZmVyBiX9uBPd%2B9qCda4YeTsTlpV1w0MV7hbA%3D%3D%7CsS2Q5hsL4NBVbcNW%7C08%7C3"
-  },
-  {
-    "domain": ".shopee.vn",
-    "expiry": 1771922709,
-    "httpOnly": false,
-    "name": "_gcl_au",
-    "path": "/",
-    "sameSite": "Lax",
-    "secure": false,
-    "value": "1.1.961984692.1764146709"
-  },
-  {
-    "domain": ".shopee.vn",
-    "expiry": 1764150319,
-    "httpOnly": false,
-    "name": "AMP_TOKEN",
-    "path": "/",
-    "sameSite": "Lax",
-    "secure": true,
-    "value": "%24NOT_FOUND"
-  },
-  {
-    "domain": "shopee.vn",
-    "expiry": 1795683494,
-    "httpOnly": false,
-    "name": "shopee_webUnique_ccd",
-    "path": "/",
-    "sameSite": "Lax",
-    "secure": false,
-    "value": "QKCgI5Oqfn38Gr7gpR81qA%3D%3D%7CzePr%2FzrbtW7bhuYdppJSPTLA%2F%2BMiz2kFl69YF3cuxcDDAqZmVyBiX9uBPd%2B9qCda4YeTsTlpV1w0MV7hbA%3D%3D%7CsS2Q5hsL4NBVbcNW%7C08%7C3"
-  },
-  {
-    "domain": ".shopee.vn",
-    "expiry": 1764233895,
-    "httpOnly": true,
-    "name": "SPC_SI",
-    "path": "/",
-    "sameSite": "Lax",
-    "secure": true,
-    "value": "GZAdaQAAAABiS1pwRXBON+OIZwAAAAAAbDZhUmJLR1E="
-  },
-  {
-    "domain": ".shopee.vn",
-    "expiry": 1798706710,
-    "httpOnly": true,
-    "name": "REC_T_ID",
-    "path": "/",
-    "sameSite": "Lax",
-    "secure": true,
-    "value": "37b0809d-caa4-11f0-81a4-d6c27ce851fe"
-  },
-  {
-    "domain": ".shopee.vn",
-    "expiry": 1798707495,
-    "httpOnly": false,
-    "name": "SPC_R_T_IV",
+    "name": "SPC_T_IV",
     "path": "/",
     "sameSite": "Lax",
     "secure": true,
     "value": "YWgwTms0MzRHa0pYVDVWVg=="
+  },
+  {
+    "domain": ".shopee.vn",
+    "expiry": 1764150043,
+    "httpOnly": false,
+    "name": "AC_CERT_D",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "U2FsdGVkX1+K2+XwjBM4inuld02B5XeTC84dG/I/99/6PCiVNyEOe//3nThvjmhlOeR1FHcdkw9yahVBr1HHsZKNFZ0h7W4gLS21gZ8uNaXwsky0BoXiNaCUcYwgVFlTMKTpbV3J7YZpKqEvBot+oeMr9GH1PZygf3G7Yx4wjErkb5BUJWVBzWjVvWkiKGAcejTzL8xEPwOVG5G7KUScGVfwcVGqvGrlcsa0RkfamOu7Glg3zUOo4mgr0YjS2OyGkx6+nWv869YZoQl55UbMaktaJXS8LliXt+HVzC8IKkePxtbEzejmBFWMmC3hRCnLzbdvunujrSRmwLgAKBgN8jfzkJa5H6+oTaVsuTm6XVZeOd/HMFB3Xc0im2d6Ziz1LNhvqWSpw2U1DxzwJrq62+IXTExA7M+JYt9AonwVBW2OP34/VehlutQjhTflrMKrNtFaHaL+U7OvpenNzS62Vjy75P6Zv39UKxkxBnJUEDXuxG8P2DYDAfRdt61/R31Ao4N/pdfOdKiSkBYTRFeXj2WxmNMa95aTUB0ca0fMpQ1++f4OIA8CgkQg0vINs3c9Tt+mDYHnMn+OPIlpU1j1BIWGRfnSfwg6ldB45/5xi3Oc6+SQ+fjaZ98F5U7ThrQzNa4SJjU9pXWPxySNmw5V2mtLXPgajIqKFnXvOltUve7MmhgrqRoJEOPuMrBSAxRkPAGqk756lPr9VWQ9ohjadtdkBWKQgam9Ez23KDMWFKSKmaXG7m5MSurCcT3++8GMGKmiHxy4Iu5UP3+HyggLT0syALiCneBGln5EXDcD+92tc7wvFoAUwQ0/MQ7XB5soRjELa08UY30s/m0vhzyMM4gUhg5+u/zV5INz0vh03ogPPpkJmIuxJjzEUMt1AO+4huk8QFUqCAMv69Lg6E6/pyjeH0MqF5BJO+bz+TYFFSUiewkmqo4AzqAD2ydbrPq738PiMWC3nIqkuq90wYxfB+jDfbaWytwSgDQKNZJKUxew+Kgkxa9DRNgX0ZT1Wdlv0GY1I1B0fiSS+5/WP8AFenwm3W4SupwwadH+917fa7H7FT0jDtzI5hxraUmx4g6qEWhzGlpsRdwUWigjIGym1w=="
+  },
+  {
+    "domain": ".shopee.vn",
+    "expiry": 1795682718,
+    "httpOnly": false,
+    "name": "ds",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "9e05a894ebb65bd3ae7c66ff6b3b8f5a"
+  },
+  {
+    "domain": ".shopee.vn",
+    "expiry": 1798708516,
+    "httpOnly": false,
+    "name": "SPC_R_T_ID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "R6ThAZFt/R9bKwDLKL+H+f8ww6TtFkoD6YIcQIBd5wjTdUA2doqPNMgMd9I2XutS3xQResay4Wg0IOc+6ohv+THo1BjBmM7eAeY13x9ETDjkuJdeS8/SYbZFTCKKnxntucIqkLv7K4S+Mn89xltHBTokGb6k+QFw0NbnXlseWU0="
+  },
+  {
+    "domain": ".shopee.vn",
+    "expiry": 1764234913,
+    "httpOnly": false,
+    "name": "_gid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.2.1860028458.1764146719"
+  },
+  {
+    "domain": ".shopee.vn",
+    "expiry": 1798706998,
+    "httpOnly": false,
+    "name": "SPC_CLIENTID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "U3RWS3g0Ym9UQ0JIvlvwgzqnmrbnvlgp"
+  },
+  {
+    "domain": ".shopee.vn",
+    "expiry": 1798708516,
+    "httpOnly": false,
+    "name": "SPC_U",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "299117666"
+  },
+  {
+    "domain": ".shopee.vn",
+    "expiry": 1771924509,
+    "httpOnly": false,
+    "name": "_fbp",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "fb.1.1764146712192.510354328611756731"
+  },
+  {
+    "domain": ".shopee.vn",
+    "httpOnly": false,
+    "name": "_sapid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "20b4f848f70ade2125e9344a53146c464201b2cc9cc606200d3ce4fd"
+  },
+  {
+    "domain": ".shopee.vn",
+    "expiry": 1798708516,
+    "httpOnly": true,
+    "name": "SPC_ST",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": ".REZyVVZWNHA5SVFVcXFCa9NOCfu639aFVCKFasY02QhO/Sdm0djqlj5Bkkkf8gpTQyw9V+hzBBVOhS1BrRPGmPjuFez74TJI/R+TmMWanpZy6pcQDml6cpccTyRwetPtVcvt0QBaWsfTrey4UBMTvGCdyEA430mTIsl0/hK9Vdo11e768+vHnW0zRlF7MENZd5LYx0nyRe2XBzAYKr4B94XG9otUzTPLARNNuqGwRQ1euwhtjGtz1qUizfv9o65NthCBX1rfNvt7fld8Fonhsw=="
+  },
+  {
+    "domain": ".shopee.vn",
+    "httpOnly": false,
+    "name": "csrftoken",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "t3qHJacZvQ6Yq6A5wzG6KA5xGRYzkSDl"
+  },
+  {
+    "domain": ".shopee.vn",
+    "expiry": 1795682710,
+    "httpOnly": false,
+    "name": "_QPWSDCXHZQA",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "17ff995f-b7de-4678-e170-a9b19c215dc5"
   },
   {
     "domain": ".shopee.vn",
@@ -179,23 +178,113 @@
   },
   {
     "domain": ".shopee.vn",
-    "expiry": 1795682710,
+    "expiry": 1798708516,
     "httpOnly": false,
-    "name": "_QPWSDCXHZQA",
+    "name": "SPC_R_T_IV",
     "path": "/",
     "sameSite": "Lax",
     "secure": true,
-    "value": "17ff995f-b7de-4678-e170-a9b19c215dc5"
+    "value": "YWgwTms0MzRHa0pYVDVWVg=="
   },
   {
     "domain": ".shopee.vn",
-    "expiry": 1798707496,
+    "expiry": 1771922709,
+    "httpOnly": false,
+    "name": "_gcl_au",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1.1.961984692.1764146709"
+  },
+  {
+    "domain": ".shopee.vn",
+    "expiry": 1798706710,
+    "httpOnly": true,
+    "name": "REC_T_ID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "37b0809d-caa4-11f0-81a4-d6c27ce851fe"
+  },
+  {
+    "domain": ".shopee.vn",
+    "expiry": 1764150319,
+    "httpOnly": false,
+    "name": "AMP_TOKEN",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "%24NOT_FOUND"
+  },
+  {
+    "domain": "shopee.vn",
+    "expiry": 1795684511,
+    "httpOnly": false,
+    "name": "shopee_webUnique_ccd",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "WOxXzWZLKhnNZShYgLd71Q%3D%3D%7C2OPr%2FzrbtW7bhuYdppJSPTLA%2F%2BMiz2kFl69YF61S1cDDAqZmVyBiX9uBPd%2B9qCda4YeTsTlpV1w0MV7hbA%3D%3D%7CsS2Q5hsL4NBVbcNW%7C08%7C3"
+  },
+  {
+    "domain": ".shopee.vn",
+    "expiry": 1764234916,
+    "httpOnly": true,
+    "name": "SPC_SI",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "GZAdaQAAAABiS1pwRXBON+OIZwAAAAAAbDZhUmJLR1E="
+  },
+  {
+    "domain": ".shopee.vn",
+    "expiry": 1795684276,
+    "httpOnly": false,
+    "name": "shopee_webUnique_ccd",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "yhbxFihtkIN1aw%2FL9%2BjjVQ%3D%3D%7C3OPr%2FzrbtW7bhuYdppJSPTLA%2F%2BMiz2kFl69YFyM%2BycDDAqZmVyBiX9uBPd%2B9qCda4YeTsTlpV1w0MV7hbA%3D%3D%7CsS2Q5hsL4NBVbcNW%7C08%7C3"
+  },
+  {
+    "domain": ".shopee.vn",
+    "expiry": 1764233410,
+    "httpOnly": true,
+    "name": "SPC_SEC_SI",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "v1-QjRZUHlIOENmSFdzUWVaTq7Wb21SKFUHXzun5nzHEfhq5Y5PFLVVmKP5as9Q5W80qwtTmRBX+kb8l1y+4gviQOQa1Pq47EXDCGTs3IYhy+U="
+  },
+  {
+    "domain": ".shopee.vn",
+    "expiry": 1795684485,
+    "httpOnly": false,
+    "name": "_hjSessionUser_868286",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "eyJpZCI6IjQ0YzRjYzMwLWEwYWEtNTZkYi1hYWQxLTFiMDRiOGRkNzc3OCIsImNyZWF0ZWQiOjE3NjQxNDcxMDUxODUsImV4aXN0aW5nIjp0cnVlfQ=="
+  },
+  {
+    "domain": ".shopee.vn",
+    "expiry": 1798708516,
+    "httpOnly": true,
+    "name": "SPC_T_ID",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "R6ThAZFt/R9bKwDLKL+H+f8ww6TtFkoD6YIcQIBd5wjTdUA2doqPNMgMd9I2XutS3xQResay4Wg0IOc+6ohv+THo1BjBmM7eAeY13x9ETDjkuJdeS8/SYbZFTCKKnxntucIqkLv7K4S+Mn89xltHBTokGb6k+QFw0NbnXlseWU0="
+  },
+  {
+    "domain": ".shopee.vn",
+    "expiry": 1798708513,
     "httpOnly": false,
     "name": "_ga_4GPP1ZXG63",
     "path": "/",
     "sameSite": "Lax",
     "secure": false,
-    "value": "GS2.1.s1764146718$o1$g1$t1764147496$j49$l1$h739556263"
+    "value": "GS2.1.s1764146718$o1$g1$t1764148513$j26$l1$h739556263"
   },
   {
     "domain": ".shopee.vn",
@@ -209,110 +298,50 @@
   },
   {
     "domain": ".shopee.vn",
-    "expiry": 1798707495,
-    "httpOnly": true,
-    "name": "SPC_T_ID",
+    "httpOnly": false,
+    "name": "SPC_IA",
     "path": "/",
     "sameSite": "Lax",
     "secure": true,
-    "value": "R6ThAZFt/R9bKwDLKL+H+f8ww6TtFkoD6YIcQIBd5wjTdUA2doqPNMgMd9I2XutS3xQResay4Wg0IOc+6ohv+THo1BjBmM7eAeY13x9ETDjkuJdeS8/SYbZFTCKKnxntucIqkLv7K4S+Mn89xltHBTokGb6k+QFw0NbnXlseWU0="
+    "value": "1"
   },
   {
-    "domain": ".shopee.vn",
-    "httpOnly": false,
-    "name": "csrftoken",
+    "domain": "shopee.vn",
+    "expiry": 1764235177,
+    "httpOnly": true,
+    "name": "SPC_SEC_SI",
     "path": "/",
     "sameSite": "Lax",
-    "secure": false,
-    "value": "t3qHJacZvQ6Yq6A5wzG6KA5xGRYzkSDl"
+    "secure": true,
+    "value": "v1-RVhYTUw3TTNqSXBOZ1YyeN4PMeFLZAXOu9BCbtSAkZfWNqh8tdFqMoDO3d08zS/1PsFoSgXLD9gM2eNhQ9PQD1P4+WxK2tArBygh8ByYGaA="
   },
   {
     "domain": ".shopee.vn",
+    "expiry": 1798708192,
+    "httpOnly": false,
+    "name": "_ga_FV78QC1144",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "GS2.1.s1764147785$o1$g1$t1764148192$j56$l0$h0"
+  },
+  {
+    "domain": ".shopee.vn",
+    "expiry": 1764150082,
+    "httpOnly": false,
+    "name": "_hjSession_868286",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "eyJpZCI6ImZhOTE2NGNlLTEwYzgtNGZjMS1iODQ5LTFlNTcxYzkzZjc2NyIsImMiOjE3NjQxNDcxMDUxODcsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0="
+  },
+  {
+    "domain": "shopee.vn",
     "httpOnly": false,
     "name": "_sapid",
     "path": "/",
     "sameSite": "Lax",
-    "secure": true,
-    "value": "20b4f848f70ade2125e9344a53146c464201b2cc9cc606200d3ce4fd"
-  },
-  {
-    "domain": ".shopee.vn",
-    "expiry": 1798707495,
-    "httpOnly": true,
-    "name": "SPC_ST",
-    "path": "/",
-    "sameSite": "Lax",
-    "secure": true,
-    "value": ".REZyVVZWNHA5SVFVcXFCa9NOCfu639aFVCKFasY02QhO/Sdm0djqlj5Bkkkf8gpTQyw9V+hzBBVOhS1BrRPGmPjuFez74TJI/R+TmMWanpZy6pcQDml6cpccTyRwetPtVcvt0QBaWsfTrey4UBMTvGCdyEA430mTIsl0/hK9Vdo11e768+vHnW0zRlF7MENZd5LYx0nyRe2XBzAYKr4B94XG9otUzTPLARNNuqGwRQ1euwhtjGtz1qUizfv9o65NthCBX1rfNvt7fld8Fonhsw=="
-  },
-  {
-    "domain": ".shopee.vn",
-    "expiry": 1771923496,
-    "httpOnly": false,
-    "name": "_fbp",
-    "path": "/",
-    "sameSite": "Lax",
     "secure": false,
-    "value": "fb.1.1764146712192.510354328611756731"
-  },
-  {
-    "domain": ".shopee.vn",
-    "expiry": 1798707495,
-    "httpOnly": false,
-    "name": "SPC_U",
-    "path": "/",
-    "sameSite": "Lax",
-    "secure": true,
-    "value": "299117666"
-  },
-  {
-    "domain": ".shopee.vn",
-    "expiry": 1764233895,
-    "httpOnly": false,
-    "name": "_gid",
-    "path": "/",
-    "sameSite": "Lax",
-    "secure": false,
-    "value": "GA1.2.1860028458.1764146719"
-  },
-  {
-    "domain": ".shopee.vn",
-    "expiry": 1798706998,
-    "httpOnly": false,
-    "name": "SPC_CLIENTID",
-    "path": "/",
-    "sameSite": "Lax",
-    "secure": true,
-    "value": "U3RWS3g0Ym9UQ0JIvlvwgzqnmrbnvlgp"
-  },
-  {
-    "domain": ".shopee.vn",
-    "expiry": 1795682718,
-    "httpOnly": false,
-    "name": "ds",
-    "path": "/",
-    "sameSite": "Lax",
-    "secure": true,
-    "value": "9e05a894ebb65bd3ae7c66ff6b3b8f5a"
-  },
-  {
-    "domain": ".shopee.vn",
-    "expiry": 1798707495,
-    "httpOnly": false,
-    "name": "SPC_R_T_ID",
-    "path": "/",
-    "sameSite": "Lax",
-    "secure": true,
-    "value": "R6ThAZFt/R9bKwDLKL+H+f8ww6TtFkoD6YIcQIBd5wjTdUA2doqPNMgMd9I2XutS3xQResay4Wg0IOc+6ohv+THo1BjBmM7eAeY13x9ETDjkuJdeS8/SYbZFTCKKnxntucIqkLv7K4S+Mn89xltHBTokGb6k+QFw0NbnXlseWU0="
-  },
-  {
-    "domain": ".shopee.vn",
-    "expiry": 1798707495,
-    "httpOnly": true,
-    "name": "SPC_T_IV",
-    "path": "/",
-    "sameSite": "Lax",
-    "secure": true,
-    "value": "YWgwTms0MzRHa0pYVDVWVg=="
+    "value": "f9eda2eb0e298482fcb06ee92933dcb0b768e6e87130239a735f3220"
   }
 ]
